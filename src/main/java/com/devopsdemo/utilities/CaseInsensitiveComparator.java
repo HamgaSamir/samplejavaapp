@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 /**
  * Case insensitive comparator that extends GenericComparator
+ * comment added by me SAMIR to test GIT hook with jenkins
  */
 public class CaseInsensitiveComparator extends GenericComparator implements Serializable {
     
